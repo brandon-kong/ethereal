@@ -34,10 +34,6 @@
 		"sideBar.border": "#2e2e2e",
 
 		"statusBar.background": "#226d9c",
-
-		"menu.background": "#ff0000",
-
-		
 	},
 	
 	"tokenColors": [
