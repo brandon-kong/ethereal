@@ -2,6 +2,8 @@
   "name": "ethereal",
   "displayName": "Ethereal",
   "description": "",
+  "publisher": "brandonkong",
+  "repository": "https://github.com/brandon-kong/ethereal",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.87.0"
