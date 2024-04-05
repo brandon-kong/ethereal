@@ -27,13 +27,15 @@
 		"tab.activeBackground": "#111111",
 		"tab.inactiveBackground": "#000000",
 
-		"editor.lineHighlightBackground": "#132027",
-		"editor.selectionBackground": "#1d24386c",
+		"editor.lineHighlightBackground": "#53462b50",
+		"editor.selectionBackground": "#53462b50",
 
 		"sideBar.background": "#1a1a1d",
 		"sideBar.border": "#2e2e2e",
 
 		"statusBar.background": "#226d9c",
+
+		"menu.background": "#1a1a1d",
 	},
 	
 	"tokenColors": [
@@ -163,7 +165,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#b3bde9"
+				"foreground": "#dbdbdbb9"
 			}
 		},
 		{
