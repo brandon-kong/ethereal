@@ -17,7 +17,7 @@
       {
         "label": "Ethereal",
         "uiTheme": "vs-dark",
-        "path": "./themes/Ethereal-color-theme.json"
+        "path": "./themes/ethereal-color-theme.json"
       }
     ]
   }
