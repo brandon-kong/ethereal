@@ -18,15 +18,9 @@ Installation
 4. Click Reload to reload your editor
 5. Code > Preferences > Color Theme > `ethereal`
 
-- [Open in Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=brandonkong.ethereal)
-- [Open in GitHub](https://www.github.com/brandon-kong/ethereal)
-- [Open in Open VSX Registry](https://open-vsx.org/extension/brandonkong/ethereal)
-
-## Activation
-
-1. Click the gear icon in the lower left corner of Visual Studio Code.
-2. Click **Themes** > **Color Theme**.
-3. Select **ethereal** from the list.
+- [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=brandonkong.ethereal)
+- [GitHub](https://www.github.com/brandon-kong/ethereal)
+- [Open VSX Registry](https://open-vsx.org/extension/brandonkong/ethereal)
 
 <hr />
 
