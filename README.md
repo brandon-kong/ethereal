@@ -1,16 +1,28 @@
-# ethereal README
+<div align="center">
+    <img src="assets/ethereal-banner.png" align="center" alt="ethereal Color Theme Banner">
+</div>
 
-## Working with Markdown
+<div align="center">
+    <h1>ethereal</h1>
+    <p>ethereal is a color theme for Visual Studio Code that is designed to be easy on the eyes and provide a comfortable reading experience.</p>
+</div>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Installation
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+1. Open the **Extensions** view by pressing `Ctrl+Shift+X` or `Cmd+Shift+X` on Mac.
+2. Search for `ethereal`.
+3. Click the **Install** button.
 
-## For more information
+## Activation
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Click the gear icon in the lower left corner of Visual Studio Code.
+2. Click **Themes** > **Color Theme**.
+3. Select **ethereal** from the list.
 
-**Enjoy!**
+<hr />
+
+<br />
+
+<div align="center">
+    <img src="assets/ethereal-preview.png" align="center" alt="ethereal Color Theme Preview">
+</div>
