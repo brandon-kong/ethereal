@@ -3,11 +3,12 @@
 	
 	
 	"colors": {
-		"editor.background": "#17171b",
+		"editor.background": "#131818",
 		"editor.foreground": "#eeffff",
 
-		"activityBar.background": "#121214",
+		"activityBar.background": "#090c0c",
 		"activityBarBadge.background": "#226d9c",
+
 		"sideBarTitle.foreground": "#bbbbbb",
 		"sideBarSectionHeader.background": "#141414",
 
@@ -15,10 +16,10 @@
 		"titleBar.activeBackground": "#111116",
 		"titleBar.border": "#1d1d1d",
 		
-		"editorGroupHeader.tabsBackground": "#1c1c20",
+		"editorGroupHeader.tabsBackground": "#1E1E1E",
 		"editorGroupHeader.tabsBorder": "#1d1d1d",
 		"editorGroup.border": "#1d1d1d",
-		"editorGroup.dropBackground": "#263142",
+		"editorGroup.dropBackground": "#2e1b3f96",
 		"editorGroupHeader.noTabsBackground": "#000000",
 		"editorGroupHeader.border": "#1d1d1d",
 		"editorGroup.emptyBackground": "#000000",
@@ -30,12 +31,10 @@
 		"editor.lineHighlightBackground": "#53462b50",
 		"editor.selectionBackground": "#53462b50",
 
-		"sideBar.background": "#1a1a1d",
-		"sideBar.border": "#2e2e2e",
-
 		"statusBar.background": "#B65EBD",
-
 		"menu.background": "#1a1a1d",
+		
+		"sideBar.background": "#0e1111",
 	},
 	
 	"tokenColors": [
@@ -130,7 +129,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#DCDCAA"
+				"foreground": "#bdbd94"
 			}
 		},
 		{
@@ -466,7 +465,7 @@
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#dbdbdb"
 			}
 		},
 		{
@@ -495,7 +494,7 @@
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#9589B7"
 			}
 		},
 		{
@@ -541,7 +540,7 @@
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#F78C6C"
+				"foreground": "#9589B7"
 			}
 		},
 		{
@@ -550,7 +549,7 @@
 				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
-				"foreground": "#65737E"
+				"foreground": "#2579b9"
 			}
 		},
 		{
@@ -559,7 +558,8 @@
 				"markup.quote"
 			],
 			"settings": {
-				"fontStyle": "italic"
+				"fontStyle": "italic",
+				"foreground": "#5E87AE",
 			}
 		},
 		{

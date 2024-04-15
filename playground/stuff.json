@@ -1,0 +1,13 @@
+{
+    "name": "jquery.iframe-transport.js",
+    "url": "https://raw.github.com/blueimp/jQuery-File-Upload/master/js/jquery.iframe-transport.js",
+    "test": {
+        "url": "http://localhost:8000/test/iframe-transport.html",
+        "ua": "IE 7",
+
+        "test2": {
+            "url": "http://localhost:8000/test/iframe-transport.html",
+            "ua": "IE 8"
+        }
+    }
+}
