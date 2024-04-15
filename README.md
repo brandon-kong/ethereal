@@ -10,9 +10,17 @@ creates a calm and peaceful environment for you to procrastinate in.
 
 ## Installation
 
-1. Open the **Extensions** view by pressing `Ctrl+Shift+X` or `Cmd+Shift+X` on Mac.
-2. Search for `ethereal`.
-3. Click the **Install** button.
+Installation
+
+1. Open Extensions sidebar panel in VS Code. `View → Extensions`
+2. Search for `ethereal` - find the one by Brandon Kong.
+3. Click Install to install it.
+4. Click Reload to reload your editor
+5. Code > Preferences > Color Theme > `ethereal`
+
+- [Open in Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=brandonkong.ethereal)
+- [Open in GitHub](https://www.github.com/brandon-kong/ethereal)
+- [Open in Open VSX Registry](https://open-vsx.org/extension/brandonkong/ethereal)
 
 ## Activation
 
