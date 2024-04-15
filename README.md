@@ -2,6 +2,9 @@
     <img src="assets/ethereal-banner.png" align="center" alt="ethereal Color Theme Banner">
 </div>
 
+<br />
+<br />
+
 ethereal is a dark color theme for Visual Studio Code that is easy on the eyes and designed to be easy to read. It 
 creates a calm and peaceful environment for you to procrastinate in. 
 
