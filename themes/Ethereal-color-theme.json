@@ -33,7 +33,7 @@
 		"sideBar.background": "#1a1a1d",
 		"sideBar.border": "#2e2e2e",
 
-		"statusBar.background": "#226d9c",
+		"statusBar.background": "#B65EBD",
 
 		"menu.background": "#1a1a1d",
 	},
@@ -47,7 +47,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#689962"
+				"foreground": "#5E9FAE"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#b6cfc9"
+				"foreground": "#9CDCFE"
 			}
 		},
 		{
@@ -66,7 +66,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#f8b6b9"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#cab13f"
+				"foreground": "#DCDCAA"
 			}
 		},
 		{
@@ -165,7 +165,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#dbdbdbb9"
+				"foreground": "#9589B7"
 			}
 		},
 		{
@@ -180,7 +180,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#c48e75"
+				"foreground": "#DCBDCD"
 			}
 		},
 		{
