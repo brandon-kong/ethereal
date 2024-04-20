@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.14] - 2024-04-20
+
+## Changed
+
+- Updated the editor background, activity bar, title bar, and side bar backgrounds to suit the theme better
+- 
+
 ## [0.0.13] - 2024-04-15
 
 ### Changed
