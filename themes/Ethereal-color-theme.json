@@ -30,7 +30,7 @@
 		"editor.selectionBackground": "#331135",
 
 		"statusBar.background": "#8d4892",
-		"menu.background": "#160d20",
+		"menu.background": "#191b19",
 		
 		"sideBar.background": "#140b1b",
 	},
@@ -114,7 +114,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#a384dd"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#e793a1"
 			}
 		},
 		{

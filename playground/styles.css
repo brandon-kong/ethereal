@@ -1,0 +1,11 @@
+.all {
+    background-color: aliceblue;
+
+}
+
+#header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
