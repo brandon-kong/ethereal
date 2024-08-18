@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/ethereal-banner.png" align="center" alt="ethereal Color Theme Banner">
+    <img src="assets/ethereal-title.png" align="center" alt="ethereal Color Theme Banner">
 </div>
 
 <br />
