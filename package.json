@@ -5,7 +5,7 @@
   "publisher": "brandonkong",
   "repository": "https://github.com/brandon-kong/ethereal",
   "icon": "assets/ethereal.png",
-  "version": "0.0.17",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.87.0"
   },
@@ -15,7 +15,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Ethereal",
+        "label": "ethereal",
         "uiTheme": "vs-dark",
         "path": "./themes/ethereal-color-theme.json"
       }
